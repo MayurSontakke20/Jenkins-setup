@@ -1,3 +1,13 @@
+use this link for RedHat setup
+
+https://pkg.jenkins.io/redhat-stable/
+
+use this link for Ubuntu setup
+
+https://pkg.jenkins.io/debian-stable/
+
+
+
 #STEP-1: GETTING REPO   (jenkins.io)
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
